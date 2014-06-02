@@ -8,7 +8,7 @@
       "ie 7"
     ]
   },
-  "debug": false,
+  "debug": true,
   "domain": null,
   "lintScripts": false,
   "modelSource": null,
@@ -32,5 +32,6 @@
     "username": "yyy",
     "password": "yyy",
     "path": "www/yyy"
-  }
+  },
+  "reload": 0
 }
