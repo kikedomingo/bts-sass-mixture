@@ -12,7 +12,7 @@
   "domain": null,
   "lintScripts": false,
   "modelSource": null,
-  "preprocessorLocations": "assets,app/css,app/js",
+  "preprocessorLocations": "assets",
   "preprocessorScriptOutput": "app/js",
   "preprocessorStyleOutput": "app/css",
   "projectDescription": "Bootstrap 3.1 + Oficcial Sass port starter kit.",
