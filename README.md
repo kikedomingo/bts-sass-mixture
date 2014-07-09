@@ -1,10 +1,10 @@
-Bootstrap 3.1 + Sass Mixture starter kit
+Bootstrap 3.2 + Sass Mixture starter kit
 ================
 
-Simple starter kit for [Bootstrap 3.1 + Sass] in Mixture
+Simple starter kit for [Bootstrap 3.2 + Sass] in Mixture
 Updated for Mixture v2.46
 
-###### Uses Bootstrap-Sass 3.1 (http://getbootstrap.com/css/#sass) + autoPrefixer activated.
+###### Uses Bootstrap-Sass 3.2 (NEW)  (http://getbootstrap.com/css/#sass) + autoPrefixer activated.
 
 - Add javascript in assets/javascripts/application.js
 - Edit styles in assets/stylesheets/style.scss
